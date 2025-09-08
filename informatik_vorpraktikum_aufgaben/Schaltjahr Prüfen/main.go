@@ -12,5 +12,8 @@ import "fmt"
 // in diese Funktion (func) muss der gesamte code geschrieben werden, damit er ausgeführt wird
 func main() {
 	fmt.Println()
+	for true {
+		fmt.Println("im running")
+	}
 	// TODO
 }

@@ -4,6 +4,7 @@ import "fmt"
 
 // schreibe ein programm, das zählt, wie oft die zahl 5 in einer liste vorkommt.
 // definiere dafür eine liste (slice) von ganzen zahlen, z. B. []int{3, 5, 1, 5, 7, 5, 2}
+// die einzelnen elemente der liste können durch liste[zahl] ausgegeben werden
 // nutze eine for-schleife, um durch die liste zu gehen, und erhöhe einen zähler, wenn das aktuelle element gleich 5 ist
 // gib am ende die anzahl der fünfen mit fmt.Println aus
 //
