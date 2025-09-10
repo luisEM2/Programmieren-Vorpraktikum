@@ -12,9 +12,6 @@ package rekursion
 // n = 4 → 3
 // n = 5 → 5
 //
-// Hinweis: Die rekursive Definition lautet:
-// Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
-// mit den Basisfällen: Fibonacci(0) = 0, Fibonacci(1) = 1
 func Fibonacci(n int) int {
 	// TODO: Funktion rekursiv implementieren
 	return 0 // Platzhalterwert

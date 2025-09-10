@@ -12,8 +12,7 @@ package rekursion
 //     {6},
 // }) → []int{1, 2, 3, 4, 5, 6}
 //
-// Hinweis: Die Funktion kann sowohl iterativ mit zwei Schleifen
-// als auch rekursiv geschrieben werden.
+// Die Funktion soll rekursiv geschrieben werden
 func FlattenRekursiv(nested [][]int) []int {
 	// TODO: Funktion implementieren (rekursiv oder iterativ)
 	return nil // Platzhalterwert
