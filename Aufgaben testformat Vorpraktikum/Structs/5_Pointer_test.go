@@ -2,7 +2,7 @@ package structs
 
 import "fmt"
 
-func ExampleConvertCelsiusToFahrenheit() {
+func ExampleConvertToFahrenheit() {
 	t1 := 0.0
 	t2 := 100.0
 	t3 := -40.0

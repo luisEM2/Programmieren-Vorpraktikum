@@ -27,8 +27,6 @@ func abs(x float64) float64 {
 
 // AddComplex addiert zwei komplexe Zahlen (a + bi) + (c + di)
 func AddComplex(a, b ComplexNumber) ComplexNumber {
-	var c ComplexNumber = ComplexNumber{}
-	c.Real = a.Real
 	// TODO: Implementiere die Addition von a und b
 	return ComplexNumber{}
 }

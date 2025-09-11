@@ -2,7 +2,7 @@ package structs
 
 import "fmt"
 
-func ExampleAverageRating() {
+func ExampleAverageScore() {
 	ratings := []Rating{
 		{Name: "Anna", Score: 4},
 		{Name: "Ben", Score: 5},
